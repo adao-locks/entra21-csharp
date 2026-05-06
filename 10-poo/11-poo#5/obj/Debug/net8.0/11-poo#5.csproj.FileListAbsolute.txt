@@ -1,0 +1,14 @@
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\bin\Debug\net8.0\11-poo#5.exe
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\bin\Debug\net8.0\11-poo#5.deps.json
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\bin\Debug\net8.0\11-poo#5.runtimeconfig.json
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\bin\Debug\net8.0\11-poo#5.dll
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\bin\Debug\net8.0\11-poo#5.pdb
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\11-poo#5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\11-poo#5.AssemblyInfoInputs.cache
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\11-poo#5.AssemblyInfo.cs
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\11-poo#5.csproj.CoreCompileInputs.cache
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\11-poo#5.dll
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\refint\11-poo#5.dll
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\11-poo#5.pdb
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\11-poo#5.genruntimeconfig.cache
+C:\Users\eduardo63466526\source\repos\10-poo\11-poo#5\obj\Debug\net8.0\ref\11-poo#5.dll
