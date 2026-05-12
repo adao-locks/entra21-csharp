@@ -1,0 +1,14 @@
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\bin\Debug\net8.0\12-poo.exe
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\bin\Debug\net8.0\12-poo.deps.json
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\bin\Debug\net8.0\12-poo.runtimeconfig.json
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\bin\Debug\net8.0\12-poo.dll
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\bin\Debug\net8.0\12-poo.pdb
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\12-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\12-poo.AssemblyInfoInputs.cache
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\12-poo.AssemblyInfo.cs
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\12-poo.csproj.CoreCompileInputs.cache
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\12-poo.dll
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\refint\12-poo.dll
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\12-poo.pdb
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\12-poo.genruntimeconfig.cache
+C:\Users\eduardo63466526\source\repos\12-poo\12-poo\obj\Debug\net8.0\ref\12-poo.dll
